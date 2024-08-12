@@ -1,4 +1,6 @@
 opencv-python-headless>=4.5.5
 numpy>=1.23.0
 streamlit
-streamlit-webrtc
+streamlit-webrtc==0.48.0
+aioice==0.9.1
+aiortc==1.10.0
