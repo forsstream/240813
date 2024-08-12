@@ -3,9 +3,7 @@ from streamlit_webrtc import webrtc_streamer
 import av
 import cv2
 
-st.title("My first Streamlit app")
-st.write("Hello, world")
-
+st.title("輪郭抽出アプリ")
 
 class VideoProcessor:
     def __init__(self) -> None:
