@@ -1,6 +1,4 @@
-cv2
-streamlit
-av
-webrtc_streamer
-numpy
-pandas
+av==12.3.0
+opencv-python==4.6.0.66
+streamlit==1.37.1
+streamlit-webrtc==0.47.7
